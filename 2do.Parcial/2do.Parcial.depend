@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1606157300 source:c:\users\bruno\desktop\laboratorio-1\2doparcial.lab1\2do.parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606157300 c:\users\bruno\desktop\laboratorio-1\2doparcial.lab1\2do.parcial\linkedlist.h
+
+1606315650 source:c:\users\bruno\desktop\laboratorio-1\2doparcial.lab1\2do.parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"controller.h"
+	"bicicletas.h"
+
+1605904399 source:c:\users\bruno\desktop\laboratorio-1\2doparcial.lab1\2do.parcial\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1605904399 c:\users\bruno\desktop\laboratorio-1\2doparcial.lab1\2do.parcial\validaciones.h
+	<stdio.h>
+
+1606307430 source:c:\users\bruno\desktop\laboratorio-1\2doparcial.lab1\2do.parcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"bicicletas.h"
+	"parser.h"
+
+1606308876 c:\users\bruno\desktop\laboratorio-1\2doparcial.lab1\2do.parcial\bicicletas.h
+
+1606306636 c:\users\bruno\desktop\laboratorio-1\2doparcial.lab1\2do.parcial\parser.h
+
+1606309534 source:c:\users\bruno\desktop\laboratorio-1\2doparcial.lab1\2do.parcial\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"bicicletas.h"
+	"parser.h"
+
+1606316242 source:c:\users\bruno\desktop\laboratorio-1\2doparcial.lab1\2do.parcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"bicicletas.h"
+	"parser.h"
+	"controller.h"
+
+1606316266 c:\users\bruno\desktop\laboratorio-1\2doparcial.lab1\2do.parcial\controller.h
+
